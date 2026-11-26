@@ -1,12 +1,12 @@
-#Hotel Revenue & Booking Performance Analysis | Power BI
+# Hotel Revenue & Booking Performance Analysis | Power BI
 
 An end-to-end Data Analytics project using Microsoft Excel and Power BI.
 
-##Project Overview
+## Project Overview
 
 This project analyzes hotel booking and revenue data to evaluate financial performance, booking trends, occupancy, and property performance. It uses Excel for data preparation and Power BI for interactive reporting and business analysis.
 
-##Business Objectives
+## Business Objectives
 
 - Analyze revenue generated versus revenue realized.
 - Identify revenue gaps and booking losses.
@@ -14,12 +14,12 @@ This project analyzes hotel booking and revenue data to evaluate financial perfo
 - Compare revenue across properties, cities, and booking platforms.
 - Present actionable business insights through interactive dashboards.
 
-##Tools & Technologies
+## Tools & Technologies
 
 - Microsoft Excel: Data preparation and cleaning.
 - Microsoft Power BI: Data modeling, DAX measures, and dashboard development.
 
-##Dataset Information
+## Dataset Information
 
 Source: Kaggle – Hotel Booking and Revenue Dataset
 
@@ -32,9 +32,9 @@ dim_hotels| 25
 dim_date| 92
 fact_aggregated_bookings| 9,200
 
-Analysis Period: May–July 2022
+ ### Analysis Period: May–July 2022
 
-##Data Preparation
+## Data Preparation
 
 - Reviewed the Kaggle dataset and its existing structure.
 - Performed additional data cleaning and preparation in Excel.
@@ -43,7 +43,7 @@ Analysis Period: May–July 2022
 - Checked missing values and duplicate records.
 - Organized data into fact and dimension tables for Power BI analysis.
 
-##Power BI Dashboard
+## Power BI Dashboard
 
 The report contains five interactive pages:
 
@@ -53,7 +53,7 @@ The report contains five interactive pages:
 4. Booking Loss and Recovery Insights – Unsuccessful bookings and potential revenue at risk.
 5. Drill Through Analysis – Detailed property, city, and booking-platform performance.
 
-##Key Performance Indicators
+## Key Performance Indicators
 
 - Revenue Generated
 - Revenue Realized
@@ -66,7 +66,7 @@ The report contains five interactive pages:
 - Potential Revenue at Risk
 - Average Guest Rating
 
-##Key Business Insights
+## Key Business Insights
 
 - Revenue Generated: 2.01 billion (dataset units).
 - Revenue Realized: 1.71 billion (dataset units).
@@ -81,11 +81,11 @@ The report contains five interactive pages:
 
 Revenue currency is not specified in the source dataset.
 
-##Project Workflow
+## Project Workflow
 
 Kaggle Dataset → Excel Data Preparation → Power BI Data Modeling → KPI Analysis → Interactive Dashboard → Business Insights
 
-##Key Learnings
+## Key Learnings
 
 - Excel-based data preparation and cleaning.
 - Power BI data modeling and visualization.
@@ -93,14 +93,14 @@ Kaggle Dataset → Excel Data Preparation → Power BI Data Modeling → KPI Ana
 - Interactive dashboard and drill-through functionality.
 - Converting raw data into meaningful business insights.
 
-##Conclusion
+## Conclusion
 
 This project demonstrates the application of Excel and Power BI in analyzing hotel revenue, booking performance, and occupancy. The dashboard provides an interactive approach to understanding hotel business performance and supporting data-driven decisions.
 
 ---
 
-##Domain: Travel & Hospitality
+## Domain: Travel & Hospitality
 
-##Project Type: Data Analytics & Business Intelligence
+## Project Type: Data Analytics & Business Intelligence
 
-##Tools: Microsoft Excel | Microsoft Power BI
+## Tools: Microsoft Excel | Microsoft Power BI

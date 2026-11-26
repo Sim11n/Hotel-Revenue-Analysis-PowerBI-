@@ -25,12 +25,18 @@ Source: Kaggle – Hotel Booking and Revenue Dataset
 
 The cleaned Excel workbook contains five sheets:
 
-Sheet Name| Records
-fact_bookings| 134,590
-dim_rooms| 4
-dim_hotels| 25
-dim_date| 92
-fact_aggregated_bookings| 9,200
+Sheet Name|              
+Records
+fact_bookings|           
+134,590
+dim_rooms|               
+4
+dim_hotels|             
+25
+dim_date|                 
+92
+fact_aggregated_bookings|     
+9,200
 
 
  ### Analysis Period: May–July 2022

@@ -33,10 +33,7 @@ The cleaned Excel workbook contains five sheets:
 | dim_date | 92 |
 | fact_aggregated_bookings | 9,200 |
 
-
-
-
- ### Analysis Period: May–July 2022
+ Analysis Period: May–July 2022
 
 ## Data Preparation
 

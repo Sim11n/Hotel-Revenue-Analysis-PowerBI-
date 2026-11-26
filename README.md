@@ -83,23 +83,24 @@ The report contains five interactive pages:
 
 
 
+
 ## Project Workflow
 
-```mermaid
-flowchart TD
-    A["Original Hotel Booking Dataset<br/>Kaggle"] --> B["Data Cleaning & Preparation<br/>Microsoft Excel"]
-    B --> C["Data Modeling & Relationships<br/>Microsoft Power BI"]
-    C --> D["DAX Measures & KPI Development"]
-    D --> E["Interactive Dashboard Development"]
-    E --> F["Business Insights & Performance Analysis"]
+The project was completed through the following stages:
 
-    style A fill:#DCEBFA,stroke:#3973AC,color:#1A1A1A
-    style B fill:#DDF3E4,stroke:#398653,color:#1A1A1A
-    style C fill:#E9DFFA,stroke:#8055A5,color:#1A1A1A
-    style D fill:#FFF0D5,stroke:#C58A28,color:#1A1A1A
-    style E fill:#D9F1F1,stroke:#298787,color:#1A1A1A
-    style F fill:#FCE3E3,stroke:#B65C5C,color:#1A1A1A
-```
+| Step | Workflow Stage | Description | Tool Used |
+|---|---|---|---|
+| 01 | Data Collection | Collected the original hotel booking and revenue dataset. | Kaggle |
+| 02 | Data Cleaning | Cleaned, reviewed, and prepared the dataset. | Microsoft Excel |
+| 03 | Data Preparation | Organized data into fact and dimension tables. | Microsoft Excel |
+| 04 | Data Modeling | Created data relationships and developed measures. | Power BI |
+| 05 | Dashboard Development | Designed five interactive report pages with KPIs and visualizations. | Power BI |
+| 06 | Business Analysis | Analyzed revenue, bookings, occupancy, and property performance. | Power BI |
+
+**Project Flow:**
+
+Data Collection → Data Cleaning → Data Preparation → Data Modeling → Dashboard Development → Business Analysis
+
 
 
 ## Key Learnings

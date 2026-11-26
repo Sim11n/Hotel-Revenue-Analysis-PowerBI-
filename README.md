@@ -67,20 +67,20 @@ The report contains five interactive pages:
 - Potential Revenue at Risk
 - Average Guest Rating
 
+
 ## Key Business Insights
 
-- Revenue Generated: 2.01 billion (dataset units).
-- Revenue Realized: 1.71 billion (dataset units).
-- Revenue Gap: 298.77 million (dataset units).
-- Revenue Realization: 85.12%.
-- Checked-Out Bookings: 70.15% of total bookings.
-- Cancelled Bookings: 24.83% of total bookings.
-- No-Show Bookings: 5.02% of total bookings.
-- Highest Revenue City: Mumbai.
-- Highest Revenue Property: Atliq Exotica.
-- Aggregate Occupancy: 57.87%.
+| Business Area | Key Finding |
+|---|---|
+| Revenue Performance | Generated revenue was approximately ₹201 Cr, while realized revenue was approximately ₹171 Cr. |
+| Revenue Gap | Identified a revenue gap of approximately ₹29.88 Cr, with an 85.12% revenue realization rate. |
+| Booking Status | 70.15% bookings were checked out, 24.83% cancelled, and 5.02% no-shows. |
+| City Performance | Mumbai recorded the highest realized revenue (approximately ₹66.86 Cr). |
+| Property Performance | Atliq Exotica generated the highest realized revenue (approximately ₹32.03 Cr). |
+| Booking Platform | The Others category accounted for 40.91% of bookings. |
+| Occupancy Trend | Occupancy declined from 58.55% in May to 57.45% in July 2022. |
 
-Revenue currency is not specified in the source dataset.
+
 
 ## Project Workflow
 

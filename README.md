@@ -82,9 +82,25 @@ The report contains five interactive pages:
 
 
 
+
 ## Project Workflow
 
-Kaggle Dataset → Excel Data Preparation → Power BI Data Modeling → KPI Analysis → Interactive Dashboard → Business Insights
+```mermaid
+flowchart TD
+    A["Original Hotel Booking Dataset<br/>Kaggle"] --> B["Data Cleaning & Preparation<br/>Microsoft Excel"]
+    B --> C["Data Modeling & Relationships<br/>Microsoft Power BI"]
+    C --> D["DAX Measures & KPI Development"]
+    D --> E["Interactive Dashboard Development"]
+    E --> F["Business Insights & Performance Analysis"]
+
+    style A fill:#DCEBFA,stroke:#3973AC,color:#1A1A1A
+    style B fill:#DDF3E4,stroke:#398653,color:#1A1A1A
+    style C fill:#E9DFFA,stroke:#8055A5,color:#1A1A1A
+    style D fill:#FFF0D5,stroke:#C58A28,color:#1A1A1A
+    style E fill:#D9F1F1,stroke:#298787,color:#1A1A1A
+    style F fill:#FCE3E3,stroke:#B65C5C,color:#1A1A1A
+```
+
 
 ## Key Learnings
 
